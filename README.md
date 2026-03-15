@@ -14,7 +14,11 @@ The main objective of this project is to build a model that can recognize emotio
 - Prediction on new audio samples
 
 ## Dataset
-This project uses a speech emotion dataset containing labeled audio samples for different emotions.
+This project uses a speech emotion dataset containing labeled audio samples for different emotions. I used Ravdess Dataset.
+Download link 
+```bash
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+```
 
 Example emotions:
 - Angry
